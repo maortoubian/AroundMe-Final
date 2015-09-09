@@ -1,0 +1,70 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="com.maortoubian.aroundme.ChatMainMenu"
+    android:id="@+id/maplayout"
+    android:screenOrientation="portrait">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:background="#007AE5">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/me"
+                android:id="@+id/imageView"
+                android:layout_gravity="center_horizontal|top" />
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="30dp"
+                android:src="@drawable/delete"
+                android:id="@+id/deleteMsgs"
+                android:layout_gravity="left|center_vertical"
+                android:layout_marginRight="5dp" />
+
+        </FrameLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="1">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Map"
+                android:id="@+id/textView2"
+                android:layout_alignParentTop="true"
+                android:layout_alignRight="@+id/usersLv"
+                android:layout_alignEnd="@+id/usersLv"
+                android:layout_alignParentLeft="true"
+                android:background="#007AE5"
+                android:textColor="#ffffff"
+                android:layout_alignParentStart="true"
+                android:gravity="center|center_vertical" />
+
+        </LinearLayout>
+
+        <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+            android:layout_height="match_parent" android:id="@+id/map"
+            tools:context="com.maortoubian.aroundme.MapsActivity"
+            android:name="com.google.android.gms.maps.SupportMapFragment"
+            android:layout_below="@+id/textView2" /></LinearLayout>
+
+
+
+
+</RelativeLayout>

@@ -1,0 +1,85 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="com.maortoubian.aroundme.ChatMainMenu"
+    android:id="@+id/hello"
+    android:screenOrientation="portrait">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:background="#eeeeee"
+        android:layout_alignParentEnd="true">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:background="#007AE5">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/me"
+                android:id="@+id/imageView"
+                android:layout_gravity="center_horizontal|top" />
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="30dp"
+                android:id="@+id/mapButton"
+                android:src="@drawable/pin"
+                android:background="#007AE5"
+                android:textColor="#ffffff"
+                android:layout_gravity="right|center_vertical"
+                android:layout_marginRight="5dp" />
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="30dp"
+                android:src="@drawable/set"
+                android:background="#007AE5"
+                android:textColor="#ffffff"
+                android:id="@+id/logOutBtn"
+                android:layout_gravity="center_vertical|left"
+                android:layout_marginLeft="5dp" />
+        </FrameLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="1">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="AroundMe"
+                android:id="@+id/textView2"
+                android:layout_alignParentTop="true"
+                android:layout_alignRight="@+id/usersLv"
+                android:layout_alignEnd="@+id/usersLv"
+                android:layout_alignParentLeft="true"
+                android:background="#007AE5"
+                android:textColor="#ffffff"
+                android:layout_alignParentStart="true"
+                android:gravity="center|center_vertical" />
+
+        </LinearLayout>
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/usersLv"
+            android:textColor="#ffffff"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_below="@+id/textView2" />
+
+    </LinearLayout>
+
+</RelativeLayout>
+<!-- From: file:/C:/Users/IBM_ADMIN/Desktop/STUDIES/מוביל%20מתקדם/AroundMe-master/AroundMe/src/main/res/layout/activity_login.xml -->

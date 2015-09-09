@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\IBM_ADMIN\Desktop\STUDIES\מוביל מתקדם\AroundMe-master\AroundMe\libs\gcm.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c62336e408d6dc3998013f3a4419f1895ad61b6b">
+        <dex dex="C:\Users\IBM_ADMIN\Desktop\STUDIES\מוביל מתקדם\AroundMe-master\AroundMe\build\intermediates\pre-dexed\debug\gcm-3e507dbf3656957cb3b3ae49d02cf91074fb6794.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Desktop\STUDIES\מוביל מתקדם\AroundMe-master\AroundMe\libs\google-http-client-android-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d4c790c63bcdd9a34f6080c968c70d8af0f2cd2f">
+        <dex dex="C:\Users\IBM_ADMIN\Desktop\STUDIES\מוביל מתקדם\AroundMe-master\AroundMe\build\intermediates\pre-dexed\debug\google-http-client-android-1.18.0-rc-9087dd62e20c0ef85ac2d2f096588c9f272c2452.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Desktop\STUDIES\מוביל מתקדם\AroundMe-master\AroundMe\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\IBM_ADMIN\Desktop\STUDIES\מוביל מתקדם\AroundMe-master\AroundMe\build\intermediates\pre-dexed\debug\classes-50c055730c775cceff58fc3cd22398304682c838.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Desktop\STUDIES\מוביל מתקדם\AroundMe-master\AroundMe\libs\google-http-client-jackson2-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="10eb3b8d9551a048ba3ec1b2a5ba7524cd01a45a">
+        <dex dex="C:\Users\IBM_ADMIN\Desktop\STUDIES\מוביל מתקדם\AroundMe-master\AroundMe\build\intermediates\pre-dexed\debug\google-http-client-jackson2-1.18.0-rc-e438988c567e7cc3119252bacbc595cede4323ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Desktop\STUDIES\מוביל מתקדם\AroundMe-master\AroundMe\libs\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="C:\Users\IBM_ADMIN\Desktop\STUDIES\מוביל מתקדם\AroundMe-master\AroundMe\build\intermediates\pre-dexed\debug\jackson-core-2.1.3-67625a45a1ccaf9d125b8aa9f4638bcdb46386a1.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\IBM_ADMIN\Desktop\STUDIES\מוביל מתקדם\AroundMe-master\AroundMe\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-0bfd0449b21039c6056b150cf36eb5dce8ed28a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Desktop\STUDIES\מוביל מתקדם\AroundMe-master\AroundMe\libs\google-http-client-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="041f593dcc111f46f32676e9f6856430f1294ddf">
+        <dex dex="C:\Users\IBM_ADMIN\Desktop\STUDIES\מוביל מתקדם\AroundMe-master\AroundMe\build\intermediates\pre-dexed\debug\google-http-client-1.18.0-rc-e500fa1f6316e1b44b5586167857cc7e72594dbb.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Desktop\STUDIES\מוביל מתקדם\AroundMe-master\AroundMe\libs\google-http-client-gson-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1681d7019075f7217875b3a16c425582b476a75a">
+        <dex dex="C:\Users\IBM_ADMIN\Desktop\STUDIES\מוביל מתקדם\AroundMe-master\AroundMe\build\intermediates\pre-dexed\debug\google-http-client-gson-1.18.0-rc-6a749de2a78bc149a69ede21aa3ce945e6ff20b4.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Desktop\STUDIES\מוביל מתקדם\AroundMe-master\AroundMe\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\IBM_ADMIN\Desktop\STUDIES\מוביל מתקדם\AroundMe-master\AroundMe\build\intermediates\pre-dexed\debug\classes-55a66ac43c353a4fed864210fb6c059de6e3a6ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Desktop\STUDIES\מוביל מתקדם\AroundMe-master\AroundMe\libs\google-api-client-android-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4f30a5725d24b30b35dfeb0278a29233904e19c1">
+        <dex dex="C:\Users\IBM_ADMIN\Desktop\STUDIES\מוביל מתקדם\AroundMe-master\AroundMe\build\intermediates\pre-dexed\debug\google-api-client-android-1.18.0-rc-a7513b03365445e663b936bf7fe26fa0457d5b39.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Desktop\STUDIES\מוביל מתקדם\AroundMe-master\AroundMe\libs\google-http-client-jdo-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e04b69acdd266c07a104ad8adfad87ae85b3e7fb">
+        <dex dex="C:\Users\IBM_ADMIN\Desktop\STUDIES\מוביל מתקדם\AroundMe-master\AroundMe\build\intermediates\pre-dexed\debug\google-http-client-jdo-1.18.0-rc-73c8ed75bd068d520252aab455c1c5c54e94f789.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Desktop\STUDIES\מוביל מתקדם\AroundMe-master\AroundMe\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\IBM_ADMIN\Desktop\STUDIES\מוביל מתקדם\AroundMe-master\AroundMe\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-a65743958919159fc447dc72093d19c8c17130ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Desktop\STUDIES\מוביל מתקדם\AroundMe-master\AroundMe\libs\jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\Users\IBM_ADMIN\Desktop\STUDIES\מוביל מתקדם\AroundMe-master\AroundMe\build\intermediates\pre-dexed\debug\jsr305-1.3.9-3f158dec2779ce005970d57b5afdd40f477025b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Desktop\STUDIES\מוביל מתקדם\AroundMe-master\AroundMe\libs\gson-2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2e66da15851f9f5b5079228f856c2f090ba98c38">
+        <dex dex="C:\Users\IBM_ADMIN\Desktop\STUDIES\מוביל מתקדם\AroundMe-master\AroundMe\build\intermediates\pre-dexed\debug\gson-2.1-11ab10e497520a693b27f623e25e30bf01fff16b.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Desktop\STUDIES\מוביל מתקדם\AroundMe-master\AroundMe\libs\google-api-client-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="15feacc39aa29e06a63bf9041c6e5898f06bade9">
+        <dex dex="C:\Users\IBM_ADMIN\Desktop\STUDIES\מוביל מתקדם\AroundMe-master\AroundMe\build\intermediates\pre-dexed\debug\google-api-client-1.18.0-rc-39672c9db674180c9c365ff4dd21c8d8c9670fd5.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Desktop\STUDIES\מוביל מתקדם\AroundMe-master\AroundMe\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\IBM_ADMIN\Desktop\STUDIES\מוביל מתקדם\AroundMe-master\AroundMe\build\intermediates\pre-dexed\debug\classes-71cc9b1426f9d6f4856cb7d29c9bf0138b1df8f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Desktop\STUDIES\מוביל מתקדם\AroundMe-master\AroundMe\libs\google-oauth-client-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="84bb5a223e42a5ba974ad51c9712253e662aa1bb">
+        <dex dex="C:\Users\IBM_ADMIN\Desktop\STUDIES\מוביל מתקדם\AroundMe-master\AroundMe\build\intermediates\pre-dexed\debug\google-oauth-client-1.18.0-rc-0b3f2c0a0e4ef5d24e8b79b021ffc91b21521080.jar" />
+    </item>
+
+</items>

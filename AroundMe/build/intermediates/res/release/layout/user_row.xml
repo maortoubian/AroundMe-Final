@@ -1,0 +1,63 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="top"
+    android:screenOrientation="portrait">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:padding="5dp"
+        android:background="#ffffff" >
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:weightSum="1">
+
+                    <ImageView
+                        android:id="@+id/image"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:padding="10dp"
+                        android:scaleType="fitCenter"
+                        android:src="@drawable/ic_launcher" />
+
+                    <TextView
+                        android:id="@+id/title"
+                        android:layout_width="184dp"
+                        android:layout_height="match_parent"
+                        android:layout_marginLeft="10dip"
+                        android:layout_marginTop="4dip"
+                        android:layout_span="1"
+                        android:maxLength="35"
+                        android:maxLines="1"
+                        android:text="sampletitle"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:textColor="#000000"
+                        android:gravity="center_vertical"
+                        android:layout_weight="1.03" />
+
+                    <TextView
+                        android:id="@+id/newmsgview"
+                        android:layout_width="86dp"
+                        android:layout_height="match_parent"
+                        android:layout_toRightOf="@+id/textView27"
+                        android:text="1"
+                        android:textColor="#000000"
+                        android:textAppearance="?android:attr/textAppearanceLarge"
+                        android:gravity="center" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+
+</TableLayout><!-- From: file:/C:/Users/IBM_ADMIN/Desktop/STUDIES/מוביל%20מתקדם/AroundMe-master/AroundMe/src/main/res/layout/user_row.xml -->

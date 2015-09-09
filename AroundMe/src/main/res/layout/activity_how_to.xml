@@ -1,0 +1,64 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CustomListViewAndroidExample" >
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_above="@+id/linearLayout" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/linearLayout">
+
+        <Button
+            style="@color/white"
+            android:id="@+id/button"
+            android:layout_width="178dp"
+            android:layout_height="match_parent"
+            android:background="#007AE5"
+            android:shadowColor="@color/blue"
+            android:text="&lt;"
+            android:textColor="@color/white"
+            android:textColorLink="@color/blue"
+            android:textSize="40dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="false"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentRight="false"
+            android:layout_alignParentEnd="true"
+            android:layout_gravity="bottom"
+            android:layout_weight="5.85" />
+
+        <Button
+            style="@color/white"
+            android:id="@+id/button2"
+            android:layout_width="149dp"
+            android:layout_height="match_parent"
+            android:background="#007AE5"
+            android:shadowColor="@color/blue"
+            android:text=">"
+            android:textColor="@color/white"
+            android:textColorLink="@color/blue"
+            android:textSize="40dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="false"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentRight="false"
+            android:layout_alignParentEnd="true"
+            android:layout_gravity="bottom"
+            android:layout_weight="14.66" />
+    </LinearLayout>
+
+</RelativeLayout>
